@@ -1,0 +1,5 @@
+*.book
+*.class
+.classpath
+.project
+.settings
